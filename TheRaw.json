@@ -1,6 +1,7 @@
 {"name":"The Magic", 
 "description":"By twoz", 
 "icons":[
+    {"name":"atomlantis", "url":"https://raw.githubusercontent.com/ying1026/TheMagic-Icons/main/Icons/atomlantis.png"},
     {"name":"Naiyou", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Naiyou.png"},
     {"name":"IMM", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/IMM.png"},
     {"name":"Kuromis", "url":"https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/Icons/Kuromis.png"},
